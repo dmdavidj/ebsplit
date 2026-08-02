@@ -1,0 +1,15 @@
+{
+  "auto_paper_from_source": true,
+  "institution": "Yonsei Cancer Center",
+  "label_background": true,
+  "label_fontsize": 7.0,
+  "label_position": "top-left",
+  "margin_mm": 5.0,
+  "orientation": "auto",
+  "overlap_mm": 10.0,
+  "paper": "A4",
+  "ruler_enabled": true,
+  "ruler_length_mm": 100.0,
+  "scale": 1.48,
+  "warn_on_paper_mismatch": true
+}
